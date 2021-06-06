@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ppgr2021
+- Let's learn R and Python together to explore new horizons
